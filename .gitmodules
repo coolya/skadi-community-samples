@@ -1,0 +1,6 @@
+[submodule "heavymeta.tv"]
+	path = heavymeta.tv
+	url = https://github.com/coolya/basic-lang.git
+[submodule "mpsintrocourse"]
+	path = mpsintrocourse
+	url = https://github.com/markusvoelter/mpsintrocourse.git
